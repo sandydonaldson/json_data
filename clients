@@ -1,0 +1,114 @@
+[
+    {
+      "Key": "1150",
+      "Name": "Test Oceanic Closed Client",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    },
+    {
+      "Key": "101011",
+      "Name": "Client Numbers Li",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    },
+    {
+      "Key": "25914",
+      "Name": "Viberts Test",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    },
+    {
+      "Key": "2682",
+      "Name": "Test Oceanic Client",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    },
+    {
+      "Key": "999906",
+      "Name": "Viberts Test Two",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    },
+    {
+      "Key": "A&23",
+      "Name": "A 23",
+      "Partner": "BM",
+      "Manager": "MC",
+      "Administrator": "PP"
+    },
+    {
+      "Key": "A.001",
+      "Name": "Andover Investments Limited",
+      "Partner": "DW",
+      "Manager": "SD",
+      "Administrator": "THB"
+    },
+    {
+      "Key": "ABN",
+      "Name": "ABN Bank Import Test",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    },
+    {
+      "Key": "AGE01",
+      "Name": "Ageis Capital Demo 1",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    },
+    {
+      "Key": "ANY",
+      "Name": "Any Sl",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "DW"
+    },
+    {
+      "Key": "AOW1",
+      "Name": "Oh Wonderful One",
+      "Partner": "SPG",
+      "Manager": "XXXXX",
+      "Administrator": "DW"
+    },
+    {
+      "Key": "APEX1",
+      "Name": "Apex Test",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    },
+    {
+      "Key": "APL.001",
+      "Name": "Atlantic Test Ltd",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": ""
+    },
+    {
+      "Key": "AX01",
+      "Name": "Anglo Saxon Test Limited",
+      "Partner": "THB",
+      "Manager": "DW",
+      "Administrator": "HL"
+    },
+    {
+      "Key": "B123",
+      "Name": "Demonstration Client",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    },
+    {
+      "Key": "C999",
+      "Name": "C999 Client",
+      "Partner": "",
+      "Manager": "",
+      "Administrator": "SD"
+    }
+ ]
